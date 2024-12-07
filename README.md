@@ -1,2 +1,2 @@
 # notesCS
-Small notes for Computer Science classes
+Notes for Computer Science classes
